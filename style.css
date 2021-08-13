@@ -1,0 +1,19 @@
+cover {
+    display: block;
+}
+
+page {
+    display: block;
+    width: 550px;
+    height: 300px;
+    float: left;
+    border: solid black 1px;
+    margin: 20px 10px 0 10px;
+    padding: 20px 10px 10px 10px;
+    background-color: #FFEEDD;
+}
+
+line {
+    font-family: arial, sans;
+    display: inline-block;
+}
