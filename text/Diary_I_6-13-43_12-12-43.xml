@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-stylesheet type="text/css" href="style.css" ?>
+<?xml-stylesheet type="text/css" href="../style.css" ?>
 <diary author="Robert Preston 'R.P.' Phillips">
   <cover>I 6/13/43 - 12/12/43</cover>
   <page number="1">
@@ -473,7 +473,7 @@
         3. "Camp Forrest, located in Tullahoma, Tennessee, was one of the U.S. Army's largest training bases during World War II. It was an active army post between 1941 and 1946." (https://en.wikipedia.org/wiki/Camp_Forrest)
       </note>
       <note>
-        "a case of the <italic>GIs</italic>, an ailment usually associated with food from soapy pots and pans." (Hiley, Master Sgt. Julian. 1951. "The Army Needs Names" United States Army Combat Forces Journal; Vol. 2, No. 3, Oct; https://books.google.com/books?id=ajNEAQAAIAAJ&pg=RA3-PA18)
+        "a case of the <i>GIs</i>, an ailment usually associated with food from soapy pots and pans." (Hiley, Master Sgt. Julian. 1951. "The Army Needs Names" United States Army Combat Forces Journal; Vol. 2, No. 3, Oct; <a href="https://books.google.com/books?id=ajNEAQAAIAAJ">(pg RA3-PA18)</a>)
       </note>
     </footnotes>
   </page>

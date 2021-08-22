@@ -5,7 +5,7 @@ cover {
 page {
     display: block;
     width: 550px;
-    height: 300px;
+    height: 600px;
     float: left;
     border: solid black 1px;
     margin: 20px 10px 0 10px;
@@ -14,6 +14,28 @@ page {
 }
 
 line {
+    display: block;
+    width: 540px;
     font-family: arial, sans;
     display: inline-block;
+}
+
+entryHeader {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-right: 20px;
+}
+
+super {
+    vertical-align: super;
+    font-size: 0.8em;
+}
+
+footnotes {
+    display: block;
+    margin: 30px 10px 0 10px;
+}
+
+note {
+    display: block;
 }
