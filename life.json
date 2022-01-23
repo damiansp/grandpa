@@ -1,0 +1,1513 @@
+{
+  "Animalia": {
+    "Protostomia": {
+      "Ecdysozoa": {
+        "Arthropoda": {
+          "Chilopoda": {
+            "Lithobiomorpha": {
+              "Lithobiidae": {
+                "Lithobius": {
+                  "L. forficatus": [
+                    "Brown Centipede", 
+                    "Stone Centipede", 
+                    "European Centipede"]}}}},
+          "Diploda": {
+            "Polydesmida": {
+              "Xystoddesmidae": {
+                "Harpaphe": {
+                  "H. haydeniana": [
+                    "Yellow-Spotted Millipede", 
+                    "Almond-Scented Millipede",
+                    "Cyanide Millipede"]}}}}}},
+      "Spiralia": {
+        "Mollusca": {
+          "Gastropoda": {
+            "Stylommatophora": {
+              "Ariolimacidae": {
+                "Ariolimax": {
+                  "A. columbianus": ["Pacific Banana Slug"]}},
+              "Oxychilidae": {
+                "Oxychilus": {
+                  "O. alliarius": ["Garlic (Glass-)Snail"]}}}}}}},
+    "Deuterostomia": {
+      "Chordata": {
+        "Amphibia": {
+          "Lissamphibia" : {
+            "Batrachia": {
+              "Salientia": {
+                "Anura": {
+                  "Bufonidae": {
+                    "Anaxyrus": {
+                      "A. boreas": ["Western Toad", "Northwestern Toad", "Boreal Toad"]}}}},
+              "Urodela (=Caudata?)": {
+                "Salamandroidea": {
+                  "Treptobranchia": {
+                    "Amby-Dicampto Clade": {
+                      "Ambystomidae": {
+                      "Ambystoma": {
+                        "A. macrodactylum": ["(Western) Long-Toed Salamander"]}}},
+                    "Salamandridae": {
+                      "Taricha": {
+                        "T. granulosa": ["Rough-Skinned Newt", "Roughskin Newt"]}}},
+                  "Proteid-Pletho Clade": {
+                    "Plethosalamndroidei": {
+                      "Rhyacotritonidae": {
+                        "Rhyacotriton": {
+                          "R. olympicus": ["Olympic (Torrent) Salamander"]}},
+                      "Xenosalamandroidei": {
+                        "Plethodontidae": {
+                          "Plethodontinae": {
+                            "Ref": "https://www.researchgate.net/publication/299497531_Tail_Autotomy_as_an_Anti-Predator_Weapon_in_Neotropical_Plethodontid_Salamanders_of_the_Genus_Bolitoglossa/figures?lo=1",
+                            "Aneides-Ensatina Clade": {
+                              "Aneides": {
+                                "A. ferreus": ["Clouded Salamander"]},
+                              "Ensatina": {
+                                "Ensatina eschsholtzii": [
+                                  "Ensatina", 
+                                  "(Oregon Salamander/Ensatina)"]}},
+                            "Plethodon": {
+                              "P. vehiculum": [
+                                "Western Redback Salamander", 
+                                "Western Red-Backed Salamander"]}}}}}}}}},
+            "Gymnophiona (Caecilians)": {}}},
+        "Amniota": {
+          "Mammalia": {
+            "Boreoeutheria": {
+              "Euarchontoglires": {
+                "Glires": {
+                  "Rodentia": {
+                    "Sciuridae": {
+                      "Ototspermophilus": {
+                        "O. beecheyi": [
+                          "California Ground Squirrel", 
+                          "Beechey Ground Squirrel"]}}}}},
+              "Laurasiatheria": {
+                "Eulipotyphla": {
+                  "Soricidae": {
+                    "Sorex": {
+                      "S. trowbridgii": ["Trowbridge's Shrew"]}}},
+                "Chiropt-Ferae Clade": {
+                  "Chiroptera": {
+                    "Vespertilionidae": {
+                      "Myotis": {
+                        "M. lucifugus": ["Little Brown Bat", "Little Brown Myotis"]}}}}}}},
+          "Sauropsida": {
+            "Archosauromorpha": {
+              "Testudines": {
+                "Cryptodira": {
+                  "Testudinoidea": {
+                    "Emydidae": {
+                      "Actinemys": {
+                        "A. marmorata": ["Western/Pacific Pond Turtle"]},
+                      "Chrysemys": {
+                        "C. picta": ["Painted Turtle"]}}}}},
+              "Croco-Aves Clade": {
+                "Aves": {
+                  "Galloanserae": {
+                    "Galliformes": {
+                      "Phasianidae": {
+                        "Pavoninae": {
+                          "Alectoris": {
+                            "A. chukar": [
+                              "Chukar (Partridge), Chakor"]}},
+                        "Phasianinae": {
+                          "Phasianini": {
+                            "Perdix": {
+                              "P. perdix": [
+                                "Grey/English/Hungarian Partridge", 
+                                "Hun"]},
+                            "Phasianus": {
+                              "P. colchicus": [
+                                "Common Pheasant", 
+                                "Ring-Necked Pheasant"]}},
+                          "Tetraonini": {
+                            "Tympanuchus": {
+                              "T. phasianellus": [
+                                "Sharp-Tailed Grouse", 
+                                "Sharptail", 
+                                "Fire Grouse"]}}}}},
+                    "Anseriformes": {
+                      "Anatidae": {
+                        "Anatinae": {
+                          "Mergini": {
+                            "Histrionicus": {
+                              "H. histrionicus": ["Harlequin Duck"]},
+                            "Melanitta": {
+                              "M. perspicillata": ["Surf Scoter"]}}},
+                        "Aytyhinae": {
+                          "Aythya": {
+                            "A. fuligula": ["Tufted Duck"]}}}}},
+                  "Neoaves": {
+                    "Mirandonithes": {
+                      "Podicipediformes": {
+                        "Podicipedidae": {
+                          "Podilymbus": {
+                            "P. podiceps": ["Pied-Billed Grebe"]},
+                          "Aechmophorus": {
+                            "A. occidentalis": ["Western Grebe"]}}}},
+                    "Columbimorphae": {
+                      "Columbiformes": {
+                        "Columbidae": {
+                          "Patagioenas": {
+                            "P. fasciata": ["Band-Tailed Pigeon"]}}}},
+                    "Passerea": {
+                      "Charadriiformes": {
+                        "Charadrii": {
+                          "Charadriidae": {
+                            "Charadrius": {
+                              "C. nivosus": ["Snowy Plover"],
+                              "C. semipalmatus": ["Semipalmated Plover"],
+                              "C. vociferus": ["Killdeer"]}}},
+                        "Limi-Lari Clade": {
+                          "Limi (Scolopaci)": {
+                            "Scolopacidae": {
+                              "Actitis": {
+                                "A. macularius": ["Spotted Sandpiper"]},
+                              "Calidris": {
+                                "C. alba": ["Sanderling"],
+                                "C. ptilocnemis": ["Rock Sandpiper"]}}},
+                          "Lari": {
+                            "Larida": {
+                              "Alcoidea": {
+                                "Alcidae": {
+                                  "Alcinae": {
+                                    "Cepphus": {
+                                      "C. columba": ["Pigeon Guillemot"]},
+                                    "Synthliboramphus": {
+                                      "S. antiquus": ["Ancient Murrelet"]}}}},
+                              "Laridae": {
+                                "Larinae": {
+                                  "Chroicocephalus": {
+                                    "C. philadelphia": ["Bonapart's Gull"]},
+                                  "Rissa": {
+                                    "R. tridactyla": [
+                                      "Black-Legged Kittiwake"]}},
+                                "Sterninae": {
+                                  "Hydroprogne": {
+                                    "H. caspia": ["Caspian Tern"]}}}}}}},
+                      "Caprimulgiformes": {
+                        "Apodiformes": {
+                          "Trochilidae": {
+                            "Archilochus": {
+                              "A. alexandri": [
+                                "Black-Chinned Hummingbird"]}}}},
+                      "Ardeae": {
+                        "Eurypygimorphae": {
+                          "Phaethontiformes": {
+                            "Phaethontidae": {
+                              "Phaethon": {
+                                "P aethereus": ["Red-Billed Tropicbird"]}}}},
+                        "Aequornithes": {
+                          "Gaviiformes": {
+                            "Gaviidae": {
+                              "Gavia": {
+                                "G. pacifica": ["Pacific Loon", "Pacific Diver"]}}},
+                          "Austrodypto-Pelecani Clade": {
+                            "Pelecaniformes": {
+                              "Ardeidae": {
+                                "Egretta": {
+                                  "E. thula": ["Snowy Egret"]},
+                                "Ixobrychus": {
+                                  "I. exilis": ["Least Bittern"]}}}}}},
+                      "Telluraves": {
+                        "Afroaves": {
+                          "Accipitrimorphae": {
+                            "Accipitriformes": {
+                              "Accipitridae": {
+                                "Buteo": {
+                                  "B. jamaicensis": ["Red-Tailed Hawk"],
+                                  "B. regalis": ["Ferruginous Hawk"]}}}}},
+                        "Australave": {
+                          "Falconiformes": {
+                            "Falconidae": {
+                              "Falco": {
+                                "F. sparverius": [
+                                  "American Kestrel", 
+                                  "Sparrow Hawk"]}}},
+                          "Passeriformes": {
+                            "Tyranni": {
+                              "Tyrannidae": {
+                                "Empidonax": {
+                                  "E. wrightii": [
+                                    "(American) Grey Flycatcher"]}}},
+                            "Passeri": {
+                              "Corvides": {
+                                "Orioloidea": {
+                                  "Vireonidae": {
+                                    "Vireo": {
+                                      "V. gilvus": ["Warbling Vireo"],
+                                      "V. huttoni": ["Hutton's Vireo"],
+                                      "V. olivaceus": ["Red-Eyed Vireo"],
+                                      "V. solitarius": [
+                                        "Blue-Headed Vireo", 
+                                        "Solitary Vireo"]}}},
+                                "Corvoidea": {
+                                  "Corvidae": {
+                                    "Perisor-Corv Clade": {
+                                      "Perisoreinae": {
+                                        "Perisoreus": {
+                                          "P. canadensis": [
+                                            "Canada Jay", 
+                                            "Grey Jay", 
+                                            "Camp Robber", 
+                                            "Whisky Jack"]}},
+                                      "Cyano-Corv Clade": {
+                                        "Cyanocoracinae": {
+                                          "Cyanocitta": {
+                                            "C. stelleri": [
+                                              "Steller's Jay"]}}}}}}},
+                              "Passerides": {
+                                "Core Passerides": {
+                                  "Sylviida": {
+                                    "Paridae": {
+                                      "Poecile": {
+                                        "Cinctus-Montanus Clade": {
+                                          "Cinctus-Gambeli Clade": {
+                                            "Cinctus-Hudsonicus Clade": {
+                                              "P. rufescens": [
+                                                "Chestnut-Backed Chickadee"]},
+                                            "Sclateri-Gambeli Clade": {
+                                              "Atricap-Gambeli Clade": {
+                                                "P. atricapillus": [
+                                                  "Black-Capped Chickadee"],
+                                                "P. gambeli": [
+                                                  "Mountain Chickadee"]}}}}}}},
+                                  "Musci-Passer-Clade": {
+                                    "Muscicapida": {
+                                      "Bombycilloidea": {
+                                        "Bombycillidae": {
+                                          "Bombycilla": {
+                                            "B. cedrorum": ["Cedar Waxwing"]}}},
+                                      "Musci-Certhi Clade": {
+                                        "Muscicapoidea": {
+                                          "Cinclidae": {
+                                            "Cinclus": {
+                                              "C. mexicanus": [
+                                                "American Dipper", 
+                                                "Water Ouzel"]}},
+                                          "Turdidae": {
+                                            "Catharus": {
+                                              "C. ustulatus": [
+                                                "Swainson's Thrush"]}}}}},
+                                    "Passerida": {
+                                      "Passeridae": {
+                                        "Passer": {
+                                          "P. domesticus": ["House Sparrow"]}}, 
+                                      "Fringi-Core": {
+                                        "Fringillidae": {
+                                          "Carduelinae": {
+                                            "Pini-Spinus Clade": {
+                                              "Leucosticte": {
+                                                "L. tephrocotis": [
+                                                  "Grey-Crowned Rosy Finch"]},
+                                              "Spinus": {
+                                                "S. pinus": ["Pine Siskin"]}}}},
+                                        "Emberizoidea": {
+                                          "Passerellid-Core": {
+                                            "Passerellidae":  {
+                                              "Spizella-Chondestes Clade": {
+                                                "Spizella": {}
+                                              },
+                                              "Chloro-Passer Clade": {
+                                                "Junco-Passer Clade": {
+                                                  "Spizelloides": {
+                                                    "S. arborea": [
+                                                      "American Tree Sparrow"]}},
+                                                "Melo-Passer Clade": {
+                                                  "Melozone": {
+                                                    "M. crissalis": [
+                                                      "California Towhee"]},
+                                                  "Pooecetes": {
+                                                    "P. gramineus": [
+                                                      "Vesper Sparrow"]}}}},
+                                            "Parulid-Phaenicophilid Clade": {
+                                              "Parulid-Icterid Clade": {
+                                                "Parulidae": {
+                                                  "Setophaga": {
+                                                    "S. petechia": [
+                                                      "(American) Yellow Warbler"
+                                                    ]
+                                                  }
+                                                },
+                                                "Icteridae": {
+                                                  "Euphagus": {
+                                                    "E. cyanocephalus": [
+                                                      "Brewer's Blackbird"
+                                                    ]
+                                                  },
+                                                  "Icterus": {
+                                                    "I. parisorum": [
+                                                      "Scott's Oriole"
+                                                    ]
+                                                  }
+                                                }    
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }      
+                      }
+                    }
+                  }
+                }      
+              }
+            },
+            "Lepidosauromorpha": {
+              "Reptilia": {
+                "Testudines": {
+                  "Cryptodira": {
+                    "Testudinoidea": {
+                      "Emydidae": {
+                        "Actinemys": {
+                          "A. marmorata": ["Western/Pacific Pond Turtle"]
+                        },
+                        "Chrysemys": {
+                          "C. picta": ["Painted Turtle"]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "Squamata": {
+                "Serpentes": {
+                  "Colubridae": {
+                    "Thamnophis": {
+                      "T. sirtalis": [
+                        {
+                          "(generic)": "Common Garter Snake",
+                          "T. s. concinnus": "Red-Spotted Garter Snake"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Fungi": {
+    "Ascomycota": {
+      "Pezizomycotina": {
+        "Leotiomyceta": {
+          "Dothideomyceta": {
+            "Lecanoromycetes": {
+              "Lecanorales": {
+                "Ref": "https://www.researchgate.net/publication/49674865_Phylogenetic_Relationships_of_the_Physciaceae_Inferred_from_rDNA_Sequence_Data_and_Selected_Phenotypic_Characters/figures",
+                "Situ incertae": {
+                  "Mycoblastaceae": {
+                    "Mycoblastus": {
+                      "M. sanguinarius": ["Clot Lichen"]}}},
+                "Parmel-Lecanor Outer Clade": {
+                  "Parmel-Lecanor Middle Clade": {
+                    "Parmel-Lecanor Inner Clade": {
+                      "Lecanoraceae I": {
+                        "Ramboldia (?)": {
+                          "R. cinnabarina": ["Cinnabar Ramboldia (?)"]}}},
+                    "Cladon-Lecanor Clade": {
+                      "Cladoniaceae": {
+                        "Cladona": {
+                          "C. pyxidata": ["Pebbled Pixie Lichen"]},
+                        "Pilophorus": {
+                          "P. acicularis": [
+                            "Nail Lichen", 
+                            "Devil's Matchstick Lichen"]}},
+                      "Stereocaulaceae": {
+                        "Stereocualon": {
+                          "S. tomentosum": ["'Tomentosum' Snow Lichen"]}}}}}},
+              "Teloschistales": {
+                "Teloschistaceae": {
+                  "Xanthoria": {
+                    "X. candelaria": ["Xanthoria candelaria"]}}}}},
+          "Sordiomyceta": {
+            "Sordariomycetes": {
+              "Hypocreomycetidae": {
+                "Hypocreales": {
+                  "Hypocreaceae": {
+                    "Hypomyces": {
+                      "H. lactifluorum": ["Lobster Mushroom"]}}}}}}},
+        "Rest": {
+          "Pezizomycetes": {
+            "Pezizales": {
+              "Ref": "http://bioweb.uwlax.edu/bio203/s2013/hammett-_will/Pictures/small%20class.jpg",
+              "Pezizaceae": {
+                "Sarcosphaera": {
+                  "S. coronaria": [
+                    "Crown Fungus", 
+                    "Pink Crown", 
+                    "Violet Crown-Cup", 
+                    "Violet Star Cup"]}},
+              "Rest": {
+                "Morchellaceae": {
+                  "Morchella": {
+                    "M. burnnea": ["Natural Black Morel"]
+                  }
+                },
+                "Discinaceae": {
+                  "Gryomitra": {
+                    "G. esculenta": ["Conifer False Morel"]
+                  }
+                }
+              },
+              "Incertae sedis": {
+                "Pyronemataceae": {
+                  "Aleuria": {
+                    "A. aurantia": ["Orange Peel Fungus"]
+                  },
+                  "Geopora": {
+                    "G. cooperi": ["Pine Truffle", "Fuzzy Truffle"]
+                  }
+                }  
+              }
+            }
+          }  
+        }
+      }
+    },
+    "Basidiomycota": {
+      "Agaricomycetes": {
+        "Incertae sedis": {
+          "Thelephorales": {
+           "Thelephoraceae": {
+             "Polyozellus": {
+               "P. atrolazulinus": ["(Clustered) Blue Chanterelle"]}}}},
+        "Cantharellales": {
+          "Clavulinaceae": {
+            "Clavulina": {
+              "C. coralloides": ["Crested Coral"]}},
+          "Hydnaceae": {
+            "Hydnum": {
+              "H. repandum": [
+                "Sweet Tooth", 
+                "Wood Hedgehog", 
+                "Hedgehog Mushroom"]}}},
+        "Seba-Atheli Clade": {
+          "Steriopsi-Atheli Clade": {
+            "Phallomycetidae": {
+              "Geastrales": {
+                "Geastraceae": {
+                  "Geastrum": {
+                    "G. saccatum": ["Rounded Earthstar"],
+                    "G. triplex": ["Collared/Saucered/Triple Earthstar"]}}},
+              "Phallales": {
+                "Phallaceae": {
+                  "Phallus": {
+                    "P. impudicus": ["Common Stinkhorn"]}}}},
+            "Hymeno-Agaric Clade": {
+              "Hymenochaetales": {
+                "IC?": {
+                  "Trichaptum": {
+                    "T. abietinum": ["Purplepore Bracket"]}}},
+              "Poly-Agarico Clade": {
+                "Cortici-Agarico Clade": {
+                  "Cortici-Gloeo Clade": {
+                    "Gloeophyllalaes": {
+                      "Gloeophyllaceae": {
+                        "Gloeophyllum": {
+                          "G. sepiarium": [
+                            "Rusty Gilled Polypore", 
+                            "Conifer Mazegill"]},
+                        "Neolentinus": {
+                          "N. lepideus": [
+                            "Scaly Sawgill",
+                            "Scaly lentinus",
+                            "Train Wrecker"]}}}},
+                  "Agaricomycetidae": {
+                    "Agaricales": {
+                      "Piicaturopsidoid Clade": {
+                        "Clavariaceae": {
+                          "Clavulinopsis": {
+                            "C. laeticolor": ["Golden Fairy Club"]}}},
+                      "Agari-Pluteo Clade": {
+                        "Agaricoid Clade": {
+                          "Strophari-Hydnangi Clade": {
+                            "Stophari-Bolbiti Clade": {
+                              "Stophari-Gymno Clade": {
+                                "Strophariacieae": {
+                                  "Agrocybe": {
+                                    "A. praecox": ["Spring Agrocybe"]},
+                                  "Rest": {
+                                    "Psilocybe": {},
+                                    "Rest": {
+                                      "Pholiota": {
+                                        "P. aurivella": ["Golden Pholiota"],
+                                        "P. limonella": [
+                                          "Golden Pholiota", 
+                                          "Lemon-Yellow Pholiota"]},
+                                      "Stroph-Hyph Clade": {
+                                        "Stropharia": {
+                                          "S. ambigua": [
+                                            "Questionable Stropharia"]}}}}},
+                                "Hymenogastraceae": {
+                                  "Hebeloma": {
+                                    "H. crustuliniforme": [
+                                      "Poison Pie",
+                                      "Fairy Cakes"]}}},
+                              "Cortin-Bolbiti Clade": {
+                                "Cortinariaceae": {
+                                  "Phaeocollybia": {
+                                    "P. kauffmanii": [
+                                      null,
+                                      "'Kauffman's' Dark-Rooting Collybia"]}}}}},
+                          "Agaric-Cysto Clade": {
+                            "Agaricaceae": {
+                              "Ref": "https://www.researchgate.net/publication/49716772_The_family_Agaricaceae_Phylogenies_and_two_new_white-spored_genera/figures?lo=1",
+                              "Uncertain": {
+                                "Calvatia":  {
+                                  "C. booniana": ["Western Giant Puffball"]},
+                                "Cystoderma": {
+                                  "C. fallax": [
+                                    "Conifer Powdercap", 
+                                    "Sheathed Powdercap"]}},
+                              "Lepiota-SuperClade": {
+                                "Cysto-Lepiota Clade": {
+                                  "Lepiota": {
+                                    "L. cristata": [
+                                      "Brown-Eyed Parasol", 
+                                      "Stinking Dapperling", 
+                                      "Stinking Parasol"],
+                                    "L. subincarnata": ["Deadly Parasol"]}},
+                                "Coprinus": {
+                                  "C. comatus": [
+                                    "Shaggy Ink Cap", 
+                                    "Lawyer's Wig", 
+                                    "Shaggy Mane"]}},
+                              "Remainder": {
+                                "Bovista-Lyco-Macrolep Clade": {
+                                  "Bovista-Lyco": {
+                                    "Lycoperdon": {
+                                      "L. perlatum": [
+                                        "Common/Warted/Gem-Studded Puffball",
+                                        "Wolf Farts",
+                                        "Devil's Snuffbox"]}}},
+                                "AChLLM-Clade": {
+                                  "Agaric-Chloro Clade": {
+                                    "Erio-Agaric Clade": {
+                                      "Agaricus": {
+                                        "A. Augustus": ["The Prince"]}},
+                                    "Chlorophyllum": {
+                                      "C. brunneum": [
+                                        "(Brown) Shaggy Parasol"]}},
+                                  "LLM Clade": {}}}},
+                            "Lycoperdaceae": "-> Agaricaceae",
+                            "Nidu-Cysto Clade": {
+                              "Nidulariaceae": {
+                                "Crucibulum": {
+                                  "C. laeve": ["White-Egg Bird's Nest"]}}}}},
+                        "Hygrophoid Clade": {
+                          "Hygrophoraceae": {
+                            "Hygrophorus": {
+                              "H. bakerensis": [
+                                "Mt. Baker Waxy Cap", 
+                                "Brown/Tawny Almond Waxy Cap"],
+                              "H. chrysodon": ["Golden-Fringed Waxy Cap"],
+                              "H. subalpinus": ["Subalpine Waxy Cap"]}}},
+                        "Marasmioid Clade": {
+                          "Marasmiaceae": {
+                            "Marasmius": {
+                              "M. oreades": ["Fairy Ring Mushroom", "Fairy Ring Champignon"],
+                              "M. pallidocephalus": [null]},
+                            "Megacollybia": {
+                              "M. fallax": ["Platterful Mushroom"]}},
+                          "Omphalotaceae": {
+                            "Gymnopus": {
+                              "G. dryophilus": ["Common Collybia"]}}},
+                        "Tricholomatoid Clade": {
+                          "Tricholomataceae": {
+                            "Clitocybe": {
+                              "C. squamulosa": ["Small Scaly Clitocybe"]},
+                            "Tricholoma": {
+                              "T. murrillianum": [
+                                "(Western) Matsutake", 
+                                "Pine Mushroom", 
+                                "Ponderosa Mushroom"]}}},
+                        "Pluteoid Clade": {
+                          "Pleurota-Amanita Clade": {
+                            "Amanitaceae": {
+                              "Amanita": {
+                                "A. ocreata": [
+                                  "Death Angel", 
+                                  "(Western North American) Destroying Angel", 
+                                  "Angel of Death"],
+                                "A. phalloides": ["Death Cap (Amanita)"],
+                                "A. smithiana": ["Smith's Amanita"]}},
+                            "Pleurotaceae": {
+                              "Pleurotus": {
+                                "P. pulmonarius": [
+                                  "Indian Oyster",
+                                  "Italian Oyster",
+                                  "Phoenix Mushroom",
+                                  "Lung Oyster",
+                                  "Pale Oyster",
+                                  "Summer Oyster"]}}}}},
+                      "Situ Incertae": {
+                        "Russulales": {
+                          "Albatrellaceae": {
+                            "Albatrellus": {
+                              "A. ellisii": ["Greeing Goat's Foot"],
+                              "A. flettii": [
+                                "Flett's Polypore", 
+                                "Blue-Capped Polypore"]},
+                            "Jahnoporus": {
+                              "J. hirtus": ["Bitter Iodine Polypore"]}},
+                          "Echinodontaceae": {
+                            "Echinodontium": {
+                              "E. tinctorium": ["Indian Paint Fungus"]}},
+                          "Hericiaceae": {
+                            "Hericium": {
+                              "H. coralloides": ["Coral Tooth Fungus", "Comb Tooth"]}},
+                          "Russulaceae": {
+                            "Ref": "https://imafungus.biomedcentral.com/articles/10.5598/imafungus.2014.05.01.05",
+                            "Russ-Lacti Clade": {
+                              "Lacti Clade": {
+                                "Lactarius": {
+                                  "L. scrobiculatus": ["Pitted Milk Cap"]}},
+                              "Russula": {
+                                "R. brevipes": [
+                                  "Short-Stemmed Russula", 
+                                  "Stubby Brittlegill"]}}}}}},
+                    "Boletales": {
+                      "Ref": "https://nph.onlinelibrary.wiley.com/cms/asset/c55bd0b4-9542-4cf3-ba46-480ec3bf2223/nph15698-fig-0001-m.jpg",
+                      "Sclero-Bolete-Clade": {
+                        "Paxi-Boleta Clade": {
+                          "Boletaceae": {
+                            "ref": "https://www.researchgate.net/profile/Claudio-Angelini/publication/328461977/figure/fig1/AS:757157347745793@1557531787933/Phylogeny-of-the-Boletaceae-based-on-a-Bayesian-and-Maximum-likelihood-inference-analysis.png",
+                            "Situ Incertae": {
+                              "Aureoboletus": {
+                                "A. mirabilis": [
+                                  "Admirable Bolete", 
+                                  "Bragger's Bolete", 
+                                  "Velvet Top"]}},
+                            "Main Clade": {
+                              "Nigro-Porphyr Clade": {
+                                "Afro-Porphyr Clade": {
+                                  "Boletus": {
+                                    "B. edulis": [
+                                      "King Bolete", 
+                                      "Cep",
+                                      "Penny Bun",
+                                      "Porcino (Porcini)"]}}}},
+                            "Butyri-Calo Clade": {
+                              "Caloboletus": {
+                                "C. conifericola": ["Conifer Bolete"]},
+                              "Rubroboletus": {
+                                "R. eastwoodiae": ["Satan's Bolete"],
+                                "R. haematinus": [null]}}},
+                          "Paxillaceae": {
+                            "Paxillus": {
+                              "P. involutus": [
+                                "Brown Roll-Rim",
+                                "Common Roll-Rim"]}}},
+                        "Sclerodermataceae": {
+                          "Scleroderma": {
+                            "S. cepa": ["Smooth Earthball"],
+                            "S. citrinum": [
+                              "Common Earthball", 
+                              "Pigskin Poison Puffball"]}}},
+                      "Suillinae": {
+                        "Gomphidiaceae": {
+                          "Chroogomphus": {
+                            "C. tomentosus": ["Wooly Pine Spike"]},
+                          "Gomphidius": {
+                            "G. subroseus": ["Rosy Gomphidius"]}},
+                        "Suillaceae": {
+                          "Suillus": {
+                            "Ref": "https://www.researchgate.net/figure/Phylogenetic-analysis-of-Suillus-EC-east-coast-WC-west-coast-Tall-gray-bar-indicate-S_fig3_282352875",
+                            "S. americanus": [
+                              "Chicken Fat Mushroom", 
+                              "Chicken Fat Suillus", 
+                              "American Slippery Jack", 
+                              "American Slipperycap", 
+                              "American Suilus"],
+                            "Intermed-Brev Clade": {
+                              "Lurici-Ochraceo Clade": {
+                                "S. cavipes": ["Hollow-Stalked Larch Suillus"],
+                                "S. lakei": [
+                                  "Matte Jack",
+                                  "Lake's Bolete",
+                                  "Western Painted Suillus"]}, 
+                              "Quiesce-Brev Clade": {
+                                "S. granulatus": [
+                                  "Dotted-Stalk Suillus", 
+                                  "Weeping Bolete", 
+                                  "Granulated Bolete"],
+                                "S. luteus": ["Slippery Jack"]}}}}}}}},
+                "Polyporales": {
+                  "Ref": "http://wordpress.clarku.edu/polypeet/files/2011/12/Trametes_phylogeny.jpg",
+                  "Fomitopsidaceae": {
+                    "Situ Incertae": {
+                      "Postia": {
+                        "P. caesia": ["Blue Cheese Polypore"]}},
+                    "Laetiporus": {
+                      "L. conifericola": [
+                        "Chicken Mushroom", 
+                        "Chicken of the Woods"]},
+                    "Fomitopsis": {
+                      "Refs": [
+                        "https://www.researchgate.net/publication/350436382_Taxonomy_and_Phylogeny_of_the_Fomitopsis_pinicola_Complex_With_Descriptions_of_Six_New_Species_From_East_Asia/figures",
+                        "https://www.facesoffungi.org/wp-content/uploads/2017/08/54-851x1024.jpg"],
+                      "Betulina-Pinicola": {
+                        "Pinicola Complex": {
+                          "F. pinicola": [
+                            "Red-Belted Conk", 
+                            "Red-Belted Polypore"]},
+                        "F. betulina": [
+                          "Birch Polypore", 
+                          "Birch Bracket", 
+                          "Razor Strop"]},
+                      "Rest": {
+                        "F. cajanderi": ["Rosy Polypore"]}}},
+                  "Lentinus-Phleboid Clade": {
+                    "Phleboid Clade": {
+                      "Meruliaceae": {
+                        "Phlebia": {
+                          "P. tremellosa": ["Trembling Crust", "Jelly Rot"]}}},
+                    "Lentinus-Grifola Clade": {
+                      "Polyporaceae (Lentinus-Trametes Clade)": {
+                        "Ref": "https://www.researchgate.net/publication/255736176_Phylogenetic_and_Phylogenomic_overview_of_the_Polyporales/figures",
+                        "Trametes": {
+                          "T. pubescens": ["Trametes pubescens"],
+                          "T. versicolor": ["Turkey Tail"]},
+                        "Donkio-Pseudofavo Clade": {
+                          "Donkio-Ganoderm Clade": {
+                            "Ganoderma": {
+                              "G. applanatum": [
+                                "Artist's Bracket/Conk/Fungus", 
+                                "Bear Bread"]},
+                            "Cryptoporus": {
+                              "C. volvatus": ["Veiled Polypore"]}},
+                          "Coriolopsis-Pseudofavolus Clade": {
+                            "Lentinus": {
+                              "L. strigosus": ["Hairy Panus"]}}}}}}}}}}}}}},
+  "Plantae": {
+    "Bryophyta": {
+      "Bryoposida": {
+        "Bryidae": {
+          "Bryales": {
+            "Bryaceae": {
+              "Ptychostomum": {
+                "P. capillare": ["Bryum Moss", "Bryum Capillare"]}},
+            "Mniaceae": {
+              "Leuclepis": {
+                "L. acanthoneura": [
+                  "Leucolepis Umbrella Moss", 
+                  "Menzies' Tree Moss"]},
+              "Plagiomnium": {
+                "P. affine": ["Many-Fruited Thyme-Moss"]}}},
+          "Hypnales": {
+            "Hylocomiaceae": {
+              "Hylocomium": {
+                "H. splendens": [
+                  "Glittering Woodmoss", 
+                  "Splendid Feather Moss", 
+                  "Stairstep Moss", 
+                  "Mountain Fern Moss"]},
+              "Rhytidiadelphus": {
+                "R. triquetrus": [
+                  "Big Shaggy-Moss", 
+                  "Rough Goose Neck Moss"]}}}},
+        "Dicranidae": {
+          "Grimmiales": {
+            "Grimmiaceae": {
+              "Racomitrium": {
+                "R. canescens": ["Racomitrium Moss"]}}}}}},
+    "Tracheophytes": {
+      "Microphylls": {
+        "Lycophytes": {
+          "Lycopodiopsida": {
+            "Selaginellales": {
+              "Selaginellaceae": {
+                "Selaginella": {
+                  "S. oregana": ["Oregon Spikemoss"]}}}}}},
+      "Megaphylls": {
+        "Pteridophyta": {
+          "Polypodiophyta": {
+            "Polypodiopsida": {
+              "Polypodiales": {
+                "Basal": {
+                  "Dennstaedtiaceae": {
+                    "Pteridium": {
+                      "P. aquilinum": [
+                        "(Common) Bracken", 
+                        "Brake", 
+                        "Eagle Fern"]}}},
+                "Eupolypods": {
+                  "Polypodiinea (Eupolypods I)" : {
+                    "Dryopteridaceae": {
+                      "Dryopteris": {
+                        "D. arguta": ["Coastal Woodfern", "Coastal Shield-Fern"],
+                      "Polystichum": {
+                        "P. munitum": ["(Western) Swordfern"]}}},
+                  "Aspleniineae (Eupolypods II)" : {
+                    "Athyriaceae": {
+                      "Athyrium": {
+                        "A. filix-femina": ["(Common) Lady Fern"]}}}}}}}}},
+        "Lignophytes": {
+          "Gymnospermae": {
+            "Pinophyta": {
+              "Pinopsida": {
+                "Pinales": {
+                  "Pinaceae": {
+                    "Pseudotsuga": {
+                      "P. menziesii": ["Douglas Fir"]}},
+                  "Taxaceae": {
+                    "Taxus": {
+                      "T. brevilolia": ["Pacific Yew", "Western Yew"]}}}}}},
+          "Magnoliophyta": {
+            "Angiosperms": {
+              "Eudicots": {
+                "Basal Eudicots": {
+                  "Ranunculales": {
+                    "Eupteleaceae": {},
+                    "Papever-Ranunc Clade": {
+                      "Papaveraceae": {
+                        "Dicentra": {
+                          "D. formosa": ["Western/Wild/Pacific Bleeding Heart"]}},
+                      "Circa-Ranunc Clade": {
+                        "Berberidaceae": {
+                          "Achlys": {
+                            "A. triphylla": [
+                              "Vanilla-Leaf", 
+                              "Sweet After Death", 
+                              "Deer-Foot"]},
+                          "Mahonia": {
+                            "M. aquifolium": [
+                              "Oregon Grape", 
+                              "Holly-Leaved Berberry"],
+                            "M. nervosa": [
+                              "Dwarf/Cascade/Dull/Long-Leaved Oregon Grape",
+                              "Cascade Barberry"],
+                            "M. repens": [
+                              "Creeping Mahonia",
+                              "Creeping Oregon Grape",
+                              "Creeping/Prostrate Barberry"]}},
+                        "Ranunculaceae": {
+                          "Delphinieae": {
+                            "Delphinium": {
+                              "D. andersonii": ["Anderson's Larkspur"]}},
+                          "Cimicifugeae": {
+                            "Actea": {
+                              "A. rubra": ["(Red) Baneberry", "Chinaberry"]}},
+                          "Ranunculeae": {
+                            "Ranunculus": {
+                              "R. repens": [
+                                "Creeping Buttercup", 
+                                "Creeping Crowfoot", 
+                                "Sitfast"]}}}}}}},
+                "Core Eudicots": {
+                  "Superasterids": {
+                    "Asterids": {
+                      "Cornales": {
+                        "Hydrangeaceae": {
+                          "Philadelphus": {
+                            "P. lewisii": [
+                              "(Lewis') Mock-Orange",
+                              "Gordon's/Wild Mockorange",
+                              "Indian Arrowwod",
+                              "Synringa"]}}},
+                      "Eu-Eric Clade": {
+                        "Euasterids": {
+                          "Campanulids": {
+                            "Asterales": {
+                              "Asteraceae": {
+                                "Carduoideae": {
+                                  "Arctium":  {
+                                    "A. minus": [
+                                      "Lesser/Little/Common Burdock", 
+                                      "Louse-/Button-Bur", 
+                                      "Cuckoo-Button", 
+                                      "Wild Rhubarb"]},
+                                  "Cirsium": {
+                                    "C. edule": ["Edible Thistle", "Indian Thistle"]}},
+                                "Cicho-Aster Clade": {
+                                  "Asteroideae": {
+                                    "Anthemideae": {
+                                      "Achillea": {
+                                        "A. millefolium": ["(Common) Yarrow"]},
+                                      "Matricaria": {
+                                        "M. discoidea": [
+                                          "Pineappleweed", 
+                                          "Wild Chamomile", 
+                                          "Disc Mayweed"]}},
+                                    "Heliantheae": {
+                                      "Eriophyllum": {
+                                        "E. lanatum": [
+                                          "Oregon Sunshine", 
+                                          "Common Woolly Sunflower"]}}},
+                                  "Cichoriodieae": {
+                                    "Taraxacum": {
+                                      "T. officinale": [
+                                        "Common Dandelion"]}}}}},
+                            "ADP": {
+                              "Apiales": {
+                                "Apiaceae": {
+                                  "Cicuta": {
+                                    "C. douglasii": [
+                                      "(Western) Water Hemlock"]},
+                                  "Conium": {
+                                    "C. maculatum": ["(Poison) Hemlock"]},
+                                  "Lomatium": {
+                                    "L. utriculatum": [
+                                      "Spring Gold", 
+                                      "Common Lomatium"]}}},
+                              "Dipsacales": {
+                                "Adoxaceae": {
+                                  "Sambucus": {
+                                    "S. cerulea": ["Blue Elderberry", "Blue Elder"],
+                                    "S. racemosa": [
+                                      "Red Elderberry", 
+                                      "Red-Berried Elder"]},
+                                  "Viburnum": {
+                                    "V. edule": [
+                                      "Squashberry",
+                                      "Mooseberry",
+                                      "Moosewood Vibunum",
+                                      "High-/Lowbush Cranberry"]}},
+                                "Caprifoliaceae": {
+                                  "Symphoricarpos": {
+                                    "S. albus": ["(Common) Snowberry"]}}}}},
+                          "Lamiids": {
+                            "Boraginales": {
+                              "Boaginaceae": {
+                                "Hydrophyllum": {
+                                  "H. tenuipes": ["Pacific Waterleaf"]},
+                                "Mertensia": {
+                                  "M. ciliata": [
+                                    "Tall Fringed Bluebells", 
+                                    "Mountain Bluebells", 
+                                    "Streamside Bluebells"]}}},
+                            "Lamiales": {
+                              "Plantaginaceae": {
+                                "Ref": "https://www.researchgate.net/publication/273403805_Phylogeny_of_Pedaliaceae_and_Martyniaceae_and_the_Placement_of_Trapella_in_Plantaginaceae_s_l/figures?lo=1",
+                                "Glob-Callitrich Clade": {
+                                  "Plantag-Digit Clade": {
+                                    "Digitalidae": {
+                                      "Digitalis": {
+                                        "D. purpurea": [
+                                          "(Common) Foxglove"]}},
+                                    "Plantagineae": {
+                                      "Plantago": {
+                                        "P. lanceolata": [
+                                          "Ribwort/Narrowleaf/English Plantain", 
+                                          "Ribleaf", 
+                                          "Lamb's Tongue", 
+                                          "Buckhorn"]}}}},
+                                "Russel-Chelo Clade": {
+                                  "Cheloneae": {
+                                    "Collinsia": {
+                                      "C. parviflora": [
+                                        "(Maiden) Blue-Eyed Mary",
+                                        "Small-Flowered Collinia"]}}}},
+                              "Scoph-Lam Clade": {
+                                "Phry-Lam Clade": {
+                                  "Phrymaceae": {
+                                    "Erythranthe": {
+                                      "E. alsinoides": [
+                                        "Wingstem Monkeyflower", 
+                                        "Chickweed Monkeyflower"]},
+                                    "E. guttata": [
+                                      "Seep Monkeyflower", 
+                                      "Common Yellow Monkeyflower"]},
+                                  "Paulo-Lam Clade": {
+                                    "Orobanchaceae": {
+                                      "Castilleja": {
+                                        "C. hispida": [
+                                          "(Harsh) Indian Paintbrush", "Prairie-Fire"]}},
+                                    "Lamiaceae": {
+                                      "Clinopodium": {
+                                        "C. douglasii": ["Yerba Buena"]}}}}}},
+                            "Solanales": {
+                             "Solanaceae": {
+                               "Solanum": {
+                                 "S. dulcamara": [
+                                   "Bittersweet (Nightshade)",
+                                   "Bitter Nightshade",
+                                   "Blue Bindweed",
+                                   "Amara Dulcis",
+                                   "Climbing Nightshade",
+                                   "Fellenwort",
+                                   "Felonwood",
+                                   "Poisonberry",
+                                   "Scarlet Berry",
+                                   "Snakeberry",
+                                   "Trailing Bittersweet",
+                                   "Trailing Nightshade",
+                                   "Violet Bloom",
+                                   "Woody Nightshade"]}}}}},
+                        "Ericales": {
+                          "Polemonioids": {
+                            "Polemoniaceae": {
+                              "Navarretia": {
+                                "N. squarrosa": [
+                                  "Skunkbush", 
+                                  "Skunkweed", 
+                                  "California Stinkweed"]}}},
+                          "Primuloid-Ericoid Clade": {
+                            "Primuloids": {
+                              "Primulaceae": {
+                                "Dodecatheon": {
+                                  "D. austrofrigidum": [
+                                    "Frigid Shooting Star", 
+                                    "Tundra Shooting Star"],
+                                  "D. poeticum": [
+                                    "Poet's Shooting Star", 
+                                    "Narcissus Shooting Star"],
+                                  "D. pulchellum": [
+                                    "Pretty Shooting Star", 
+                                    "Few-Flowered Shooting Star", 
+                                    "Dark Throat Shooting Star", 
+                                    "Prairie Shooting Star"]},
+                                "Primula": {
+                                  "P. conjugens": ["Bonneville Shooting Star"],
+                                  "P. hendersonii": [
+                                    "Broad-Leaved/Henderson's Shooting Star",
+                                    "Mosquito Bills",
+                                    "Sailor Caps"]}}},
+                            "Penatphyl-Ericoid Clade": {
+                              "Ericaceae": {
+                                "Ref": "https://www.researchgate.net/figure/Strict-consensus-of-96-trees-found-in-the-combined-analysis-of-morphology-matK-and-rbcL_fig1_233720018",
+                                "Arbutoideae": {
+                                  "Arbutus": {
+                                    "A. menziesii": ["Madrone"]},
+                                  "Arctostaphylos": {
+                                    "A. urva-ursi": ["Kinnikinnick", "Bearberry"]}},
+                                "Early Anther Inversion Clade": {
+                                  "Vaccinoideae": {
+                                    "Gaultherieae": {
+                                      "Gaultheria": {
+                                        "G. shallon": ["Salal"]}},
+                                    "Vaccinieae": {
+                                      "Vaccinium": {
+                                        "V. ovalifolium": [
+                                          "Alaska Blueberry",
+                                          "Early Blueberry",
+                                          "Oval-Leaf Bilberry/Blueberry/Huckleberry"],
+                                        "V. parvifolium": ["Red Huckleberry"]}}},
+                                  "Ericoideae": {
+                                    "Phyllodoceae": {
+                                      "Kalmia": {
+                                        "K. microphylla": [
+                                          "Alpine Laurel", 
+                                          "(Western) Bog Laurel", 
+                                          "Swamp Laurel", 
+                                          "Western Laurel"]}},
+                                    "Rhododoreae": {
+                                      "Rhododendron": {
+                                        "Ref": "https://www.researchgate.net/publication/316076192_Bioactivity_in_Rhododendron_A_Systemic_Analysis_of_Antimicrobial_and_Cytotoxic_Activities_and_Their_Phylogenetic_and_Phytochemical_Origins/figures?lo=1",
+                                        "Penta-Hymena Clade": {
+                                          "R. occidentale": [
+                                            "Western Azalea", 
+                                            "California Azalea"],
+                                          "R. macrophyllum": [
+                                            "Pacific/California/Coast/Big-Leaf Rhododendron",
+                                            "California Rosebay"]}}}}}}}}}}},
+                    "Caryophyllales": {
+                      "Ref": "https://www.researchgate.net/publication/249158629_Phylogeny_of_the_Caryophyllales_Sensu_Lato_Revisiting_Hypotheses_on_Pollination_Biology_and_Perianth_Differentiation_in_the_Core_Caryophyllales/figures",
+                      "Non-Core": {
+                        "Polygonaceae": {
+                          "Oxyria": {
+                            "O. digyna": [
+                              "Mountain Sorrel",
+                              "Wood Sorrel",
+                              "Alpine Sorrel",
+                              "Alpine Mountain-Sorrel"]},
+                          "Rumex": {
+                            "R. acetosella": [
+                              "Red Sorrel", 
+                              "Sheep's Sorrel", 
+                              "Field Sorrel", 
+                              "Sour Weed"],
+                            "R. crispus": [
+                              "Curly Dock", 
+                              "Curled Dock",
+                              "Yellow Dock",
+                              "Sour Dock"]}}},
+                      "Core": {
+                        "Caryo-Amararnth Clade": {
+                          "Amaranthaceae": {
+                            "Amaranthus": {
+                              "A. retroflexus": [
+                                "Green Amaranth",
+                                "Red-Root Amaranth",
+                                "Common Amaranth",
+                                "Pigweed Amaranth",
+                                "Redroot Pigweed",
+                                "Common Tumbleweed"]},
+                            "Chenopodium": {
+                              "C. album":  ["Lamb's Quarters"]}},
+                          "Caryophyllaceae": {
+                            "Stellaria": {
+                              "S. media": [
+                                "(Common) Chickweed",
+                                "Chickenwort",
+                                "Craches",
+                                "Maruns",
+                                "Winterweed"]}}},
+                        "Stegon-Cact Clade": {
+                          "Monti-Portu Clade (?)": {
+                            "Montiaceae": {
+                              "Claytonia": {
+                                "C. lanceolata": [
+                                  "Lanceleaf Springbeauty", 
+                                  "Western Springbeauty"],
+                                "C. perfoliata": [
+                                  "Miner's Lettuce",
+                                  "Indian Lettuce",
+                                  "Spring Beauty",
+                                  "Winter Purslane",
+                                  "Palsingat"],
+                                "C. sibirica": [
+                                  "Pink Purslane",
+                                  "Candy Flower",
+                                  "Siberian Spring Beauty",
+                                  "Siberian Miner's Lettuce"]}},
+                            "Portulacaceae": {
+                              "Portulaca": {
+                                "P. oleracea": [
+                                  "Common Purslane", 
+                                  "Duckweed", 
+                                  "Little Hogweed", 
+                                  "Pursley"]}}}}}}},
+                  "Superrosids": {
+                    "Saxifragales": {
+                      "Crassu-Halora Clade": {
+                        "Crassulaceae": {
+                          "Sempervivoideae": {
+                            "Sedae": {
+                              "Sedum": {
+                                "S. oaxacanum": ["Oaxacan Stonecrop"],
+                                "S. rubrotinctum": [
+                                  "Jellybeans", 
+                                  "Jellybean Plant", 
+                                  "Pork and Beans"],
+                                "S. ternatum": ["Woodland Stonecrop"]}}}}},
+                      "Saxifragaceae Alliance": {
+                        "Grossulariaceae": {
+                          "Ribes": {
+                            "R. cereum": ["Wax Currant", "Western Red Currant"]}},
+                        "Saxifragaceae": {
+                          "Micranthes": {
+                            "M. odontoloma": ["Brook Saxifrage"]},
+                          "Tiarella": {
+                            "T. trifoliata": [
+                              "Threeleaf Foamflower", 
+                              "Laceflower", 
+                              "Sugar-Scoop", 
+                              "False Mitrewort"]}}}},
+                    "Rosids": {
+                      "Fabids": {
+                        "COM Clade": {
+                          "Celastrales": {
+                            "Celastraceae": {
+                              "Paxistima": {
+                                "P. myrsinites": [
+                                  "Oregon Boxleaf",
+                                  "Oregon Boxwood",
+                                  "Mountain Lover",
+                                  "False Box",
+                                  "Myrtle Box Leaf"]}}},
+                          "Malpig-Oxalid Clade": {
+                            "Malpighiales": {
+                              "Violaceae": {
+                                "Viola": {
+                                  "V. bicolor": [
+                                    "American Field Pansy", 
+                                    "Wild Pansy"]}}},
+                            "Oxalidales": {
+                              "Oxalidaceae": {
+                                "Oxalis": {
+                                  "O. oregana": [
+                                    "Redwood Sorrel",
+                                    "Wood Sorrel",
+                                    "Oregon Oxalis"]}}}}},
+                        "Nitrogen-Fixing Clade": {
+                          "Fabales": {
+                            "Fabaceae": {
+                              "Lupinus": {
+                                "L. polyphyllus": [
+                                  "Large/Big/Many-Leaved Lupine",
+                                  "Blue-Pod Lupine",
+                                  "Garden Lupin"]}}},
+                          "RCF": {
+                            "Cuc-Fag": {
+                              "Cucurbitales": {
+                                "Cucurbitaceae": {
+                                  "Marah": {
+                                    "M. oreganus": [
+                                      "Oregon Manroot", 
+                                      "Coastal Manroot", 
+                                      "Western Wild-Cucumber"]}}},
+                              "Fagales": {
+                                "Fagales": {
+                                  "Fagaceae": {
+                                    "Quercus": {
+                                      "Q. garryana": [
+                                        "Oregon (White) Oak", 
+                                        "Garry Oak"]}}},
+                                "Betulaceae": {
+                                  "Betula": {
+                                    "B. papyrifera": [
+                                      "Paper Birch",
+                                      "(American) White Birch",
+                                      "Canoe Birch"]},
+                                  "Corylus": {
+                                    "C. cornuta": ["Beaked Hazelnut"]}}}},
+                            "Rosales": {
+                              "Rosaceae": {
+                                "Amygdaloideae": {
+                                  "Amygda-Mal Clade": {
+                                    "Amygdaleae": {
+                                      "Prunus": {
+                                        "P. virginiana": [
+                                          "(Western) Chokecherry", 
+                                          "Bitter-Cherry", 
+                                          "Virginia Bird Cherry"]}},
+                                    "Seorbar-Mal Clade": {
+                                      "Malodae": {
+                                        "Maleae": {
+                                          "Malinae": {
+                                            "Amelanchier": {
+                                              "A. alnifolia": [
+                                                "Saskatoon",
+                                                "Pacific/Western Serviceberry",
+                                                "Alder-Leaf/Dwarf Shadbush",
+                                                "Chuckley Pear",
+                                                "(Western) Juneberry",
+                                                "Pigeon Berry"]}}}},
+                                      "Spriraeeae": {
+                                        "Spiraea": {
+                                          "S. douglasii": [
+                                            "Hardhack",
+                                            "(Hardhack) Steeplebush",
+                                            "Douglas/Rose Spirea"]}}}},
+                                  "Exochordeae": {
+                                    "Oemleria": {
+                                      "O. cerasiformes": [
+                                        "Osoberry", 
+                                        "Indian Plum"]}}},
+                                "Rosoid-Dryadoid Clade": {
+                                  "Rosoideae": {
+                                    "Rub-Pontentil Clade": {
+                                      "Rubeae": {
+                                        "Rubus": {
+                                          "Rubus": {
+                                            "R. armeniacus": [
+                                              "Himalayan Blackberry",
+                                              "Armenian Blackberry"]},
+                                          "Anoplobatus": {
+                                            "R. parviflorus": [
+                                              "Thimbelbery", "Redcaps"]},
+                                          "Idaeobatus": {
+                                            "R. leucodermis": [
+                                              "Blackcap Raspberry",
+                                              "Whitebark Raspberry",
+                                              "Blue Raspberry"],
+                                            "R. spectabilis": ["Salmonberry"]},
+                                          "Ursini": {
+                                            "R. ursinus": [
+                                              "California/Pacific Blackberry",
+                                              "Douglas Berry",
+                                              "California/Pacific Dewberry",
+                                              "Trailing Blackberry"]}}},
+                                      "Ros-Potentil Clade": {
+                                        "Potentilleae": {
+                                          "Fragraria": {
+                                            "F. chiloensis": [
+                                              "Beach Strawberry",
+                                              "Chilean Strawberry",
+                                              "Coastal Strawberry"]}},
+                                        "Roseae": {
+                                          "Rosa": {
+                                            "R. acicularis": [
+                                              "Prickly (Wild) Rose",
+                                              "Bristly Rose",
+                                              "Wild Rose",
+                                              "Arctic Rose"]}}}}}}},
+                              "Urticaceae": {
+                                "Urtica": {
+                                  "U. dioica": [
+                                    "Stinging Nettle", 
+                                    "Common Nettle"]}}}}}},
+                      "Malvids": {
+                        "Myrtales": {
+                          "Onograceae": {
+                            "Chamaenerion": {
+                              "C. angustifolium": [
+                                "Fireweed",
+                                "Great/Rosebay Willowherb",
+                                "St. Anthony's Laurel"]}}},
+                        "Sapin-Malval Clade": {
+                          "Sapindales": {
+                            "Anacardiaeae": {
+                              "Toxicodendron": {
+                                "T. diversilobum": [
+                                  "Pacific/Western Poison Oak"
+                                ]
+                              }
+                            },
+                            "Sapindaceae": {
+                              "Acer": {
+                                "Glabra Section": {
+                                  "A. glabrum": ["Dwarf Maple"]
+                                },
+                                "Macrophylla Section": {
+                                  "A. macrophyllum": [
+                                    "Bigleaf Maple", 
+                                    "Oregon Maple"
+                                  ]
+                                },
+                                "Palmata Section": {
+                                  "A. circinatum": ["Vine Maple"]
+                                }
+                              }
+                            }
+                          },
+                          "Brassicales": {
+                            "Brassicaceae": {
+                              "Ref": "https://www.semanticscholar.org/paper/Resolution-of-Brassicaceae-Phylogeny-Using-Nuclear-Huang-Sun/51238298c801c307e8e7f166d73f700e78c29534/figure/0",
+                              "Lunar-Brassic Clade": {
+                                "Brassica": {
+                                  "B. rapa": [
+                                    "Field Mustard", 
+                                    "Turnip Mustard", 
+                                    "Turnip", 
+                                    "Napa Cabbage", 
+                                    "Bok Choy"
+                                  ]
+                                }
+                              },
+                              "Camel-Steve Clade": {
+                                "Cardaminaeae": {
+                                  "Rorip-Barb Clade": {
+                                    "Barbarea": {
+                                      "B. orthoceras": ["American Yellowrocket", "Wintercress"]
+                                    },
+                                    "Nasturtium ?": {
+                                      "N. officinale": ["Watercress", "Yellowcress"]
+                                    }
+                                  },
+                                  "Cardamine": {
+                                    "C. oligosperma": [
+                                      "Bittercress", 
+                                      "Little Western Bittercress"
+                                    ]
+                                  }      
+                                },
+                                "Camel-Erysim Clade": {
+                                  "Capsella": {
+                                    "C. bursa-pastoris": [
+                                      "Shepherd's Purse"]}}}}}}}}}},
+              "Monocots": {
+                "Aspar-Commel Clade": {
+                  "Asparagales": {
+                    "Orchidaceae": {
+                      "Spiranthes": {
+                        "S. romanzoffiana": [
+                          "Hooded Lady's Tresses",
+                          "Irish Lady's Tresses"]}},
+                    "Rest": {
+                      "Iridaceae": {
+                        "Iris": {
+                          "Limniris": {
+                            "Californicae": {
+                              "I. tenax": [
+                                "Tough-Leaved Iris", 
+                                "Oregon Iris", 
+                                "Flag"]}}},
+                        "Olsynium": {
+                          "O. douglasii": [
+                            "Douglas' Olsynium",
+                            "(Douglas') Grass-Widow",
+                            "Blue/Purple-Eyed-Grass",
+                            "Satin Flower"]}},
+                      "Core": {
+                        "Amaryllidaceae": {
+                          "Allioideae": {
+                            "Allium": {
+                              "A. crenulatum": ["Olympic Onion"]}}},
+                        "Asparagaceae": {
+                          "Agavoideae": {
+                            "Camassia": {
+                              "C. quamash": [
+                                "Camas", 
+                                "Small/Common Camas", 
+                                "Quamash"]}},
+                          "Brodiaeoideaea": {
+                            "Brodieaea": {
+                              "B. coronaria": [
+                                "Harvest Brodiaea", 
+                                "Crown Brodiaea"]},
+                            "Dichelostemma": {
+                              "D. congestum": ["(Fork-toothed) Ookow"]},
+                            "Triteleia": {
+                              "T. hyacinthina": [
+                                "White Brodiaea", 
+                                "White Tripletlily", 
+                                "Hyacinth Bordiaea", 
+                                "Fool's Onion"]}}}}}},
+                  "Commelinids": {
+                    "Poales": {
+                      "Typhaceae": {
+                        "Typha": {
+                          "T. latifolia": [
+                            "Broadleaf/Common Cattail",
+                            "(Common) Bulrush",
+                            "Cat-o'-Nine-Tails",
+                            "Great Reedmace",
+                            "Cooper's Reed",
+                            "Cumbungi"]}}}}},
+                "Liliales": {
+                  "Liliaceae": {
+                    "Erythronium": {
+                      "E. grandifolium": [
+                        "Yellow Avalanche Lily", 
+                        "Glacier Lily", 
+                        "Dogtooth Fawn Lily"]},
+                    "E. montanum": [
+                      "(White) Avalanche Lily",
+                      "Alpine Fawn Lily"]},
+                  "Melanthiaceae": {
+                    "Melanthieae": {
+                      "Toxicoscordion": {
+                        "T. paniculatum": [
+                          "Foothill Deathcamas",
+                          "Sand-Corn"
+                        ]
+                      },
+                      "Veratrum": {
+                        "V. californicum": [
+                          "California Corn Lily", 
+                          "White False Hellebore", 
+                          "California False Hellebore"
+                        ]
+                      }  
+                    },
+                    "Parideae": {
+                      "Trillium": {
+                        "T. ovatum": [
+                          "Pacific Trillium", 
+                          "Western Wakerobin", 
+                          "Western (White) Trillium"
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
